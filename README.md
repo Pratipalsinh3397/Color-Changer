@@ -1,3 +1,3 @@
 # Color-Changer
-coor changer
-color-changer-bqpfvvsg4-pratipalsinh3397s-projects.vercel.app
+color changer
+https://color-changer-js-mocha.vercel.app/
